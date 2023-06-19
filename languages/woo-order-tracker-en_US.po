@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Order Tracker\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-19 00:00+0000\n"
+"PO-Revision-Date: 2023-06-19 15:14+0200\n"
+"Last-Translator: YOUR NAME <YOUR EMAIL ADDRESS>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2\n"
+
+#: woo-order-tracker.php:10 woo-order-tracker.php:23
+msgid "Woo Order Tracker"
+msgstr "Woo Order Tracker"
+
+#: woo-order-tracker.php:11
+msgid "Plugin per il tracciamento degli ordini in WooCommerce."
+msgstr "Plugin for order tracking in WooCommerce."
+
+#: woo-order-tracker.php:14
+msgid "1.0"
+msgstr "1.0"
+
+#: woo-order-tracker.php:15
+msgid "Santoro Alessandro, Miccoli Giuseppe"
+msgstr "Santoro Alessandro, Miccoli Giuseppe"
+
+#: woo-order-tracker.php:16
+msgid "GPL2"
+msgstr "GPL2"
+
+#: woo-order-tracker.php:28
+msgid "manage_options"
+msgstr "manage_options"
+
+#: woo-order-tracker.php:28
+msgid "woo-order-tracker"
+msgstr "woo-order-tracker"
+
+#: woo-order-tracker.php:28
+msgid "dashicons-analytics"
+msgstr "dashicons-analytics"
+
+#: woo-order-tracker.php:34
+msgid "Woo Order Tracker Settings"
+msgstr "Woo Order Tracker Settings"
+
+#: woo-order-tracker.php:39
+msgid "Abilita Tracciamento"
+msgstr "Enable Tracking"
+
+#: woo-order-tracker.php:41
+msgid "woo_order_tracker_tracking_enabled"
+msgstr "woo_order_tracker_tracking_enabled"
+
+#: woo-order-tracker.php:43
+msgid "Abilita il tracciamento degli ordini"
+msgstr "Enable order tracking"
+
+#: woo-order-tracker.php:49
+msgid "Webhook URLs di destinazione (separati da virgola)"
+msgstr "Destination Webhook URLs (comma-separated)"
+
+#: woo-order-tracker.php:51
+msgid "woo_order_tracker_webhook_urls"
+msgstr "woo_order_tracker_webhook_urls"
+
+#: woo-order-tracker.php:57
+msgid "Salva Impostazioni"
+msgstr "Save Settings"
+
+#: woo-order-tracker.php:62
+msgid "Gestisci URL dei Webhook"
+msgstr "Manage Webhook URLs"
+
+#: woo-order-tracker.php:67
+msgid "URL del Webhook"
+msgstr "Webhook URL"
+
+#: woo-order-tracker.php:68
+msgid "Azioni"
+msgstr "Actions"
+
+#: woo-order-tracker.php:76
+msgid "Elimina"
+msgstr "Delete"
+
+#: woo-order-tracker.php:84
+msgid "Nessun URL di webhook trovato."
+msgstr "No webhook URLs found."
